@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/apps/themer" />
+	<filter root="/etc/designs/themer" />
+	<filter root="/etc/brandbuilder-exporter" />
+	<filter root="/etc/brandbuilder-importer" />
+	<filter root="/apps/foundation/components/page" />
+</workspaceFilter>
